@@ -1,6 +1,12 @@
 # Friends
 
-WOW, there ARE my friends
+![build friends list](https://github.com/HomeofNever/Friends/workflows/build%20friends%20list/badge.svg)
+
+WOW, these ARE my friends
+
+https://cdn.jsdelivr.net/gh/homeofnever/friends@gh-pages/friends.json
+
+Inspired by https://github.com/SukkaW/Friends/
 
 ## 要求
 
