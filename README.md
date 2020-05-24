@@ -55,4 +55,4 @@ Inspired by https://github.com/SukkaW/Friends/
 
 ## 更新时间
 
-合并后`workflow`将会即时开始, 更新时间看 jsDelivr 更新 (大约 12h)
+合并后`workflow`将会即时开始, 更新时间看 jsDelivr 更新 (Purge API, 理论是即时)

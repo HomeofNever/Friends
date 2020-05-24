@@ -30,3 +30,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+      - name: Notify jsdelivr to update cache
+        uses: wei/curl@master
+        with:
+          args: https://purge.jsdelivr.net/gh/${{ github.repository }}@gh-pages/
