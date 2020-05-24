@@ -3,6 +3,10 @@
   img: genteure.png
   slogan: 宅急送队长随便说
   test: false
+"kn007的个人博客":
+  link: https://kn007.net/
+  img: kn007.png
+  slogan: "kn007的个人博客，抒发心情，折腾wordpress，偶尔的遐想，音乐骚人，喜欢小动物，爱护自然，西片迷，帮忙折腾"
 "Nimaqu":
   link: https://blog.nimaqu.com/
   img: nimaqu.jpg
@@ -55,7 +59,7 @@
   slogan: 这是一个从零开始的世界
 "Zohar's Blog":
   link: https://www.iwch.me/
-  img: null
+  img: https://static.yecdn.com/static/blog/page/about/avatar.png
   slogan: The Most Important Thing in My Life is Freedom
 "Sukka's Blog":
   link: https://skk.moe
