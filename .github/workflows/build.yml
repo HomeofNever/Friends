@@ -33,4 +33,4 @@ jobs:
       - name: Notify jsdelivr to update cache
         uses: wei/curl@master
         with:
-          args: https://purge.jsdelivr.net/gh/${{ github.repository }}@gh-pages/
+          args: https://purge.jsdelivr.net/gh/${{ github.repository }}@gh-pages/friends.json
