@@ -20,11 +20,6 @@
   link: https://blog.lwl12.com
   img: lwl12.jpg
   slogan: Hi, LWL12
-  test: false
-"neoFelhz's Blog":
-  link: https://blog.nfz.moe
-  img: neofelhz.png
-  slogan: Nothing can be done without paranoia.
 "Indexyz Blog":
   link: https://blog.indexyz.me
   img: indexyz.png
@@ -43,7 +38,7 @@
   slogan: "PHP初学者 // ACG爱好者 // 专业学渣 // 余业萝莉控"
 "1A23 Studio":
   link: https://1a23.com/
-  img: 1a23.png
+  img: https://www.gravatar.com/avatar/66a90bb0427b2ddd8366d21f96f17689?s=512
   slogan: We Create.
 "DCC 的小窝":
   link: https://www.dcc.cat
