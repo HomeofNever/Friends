@@ -5,6 +5,8 @@ on:
   pull_request:
     branches:
       - master
+  schedule:
+    - cron:  '0 0 15 * *'
 
 jobs:
   build:
@@ -24,6 +26,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: build file
         run: yarn && yarn build
+      - name: test connectivity
+        run: yarn connectivity
       - name: copy necessary file
         run: cp -r src/* public/
       - name: upload file

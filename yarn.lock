@@ -55,6 +55,11 @@ argparse@^1.0.7:
   dependencies:
     sprintf-js "~1.0.2"
 
+async-sema@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/async-sema/-/async-sema-3.1.0.tgz#3a813beb261e4cc58b19213916a48e931e21d21e"
+  integrity sha512-+JpRq3r0zjpRLDruS6q/nC4V5tzsaiu07521677Mdi5i+AkaU/aNJH38rYHJVQ4zvz+SSkjgc8FUI7qIZrR+3g==
+
 cacheable-lookup@^5.0.3:
   version "5.0.3"
   resolved "https://registry.yarnpkg.com/cacheable-lookup/-/cacheable-lookup-5.0.3.tgz#049fdc59dffdd4fc285e8f4f82936591bd59fec3"

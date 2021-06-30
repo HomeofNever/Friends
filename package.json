@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "build": "node index.js"
+    "build": "node build.js",
+    "connectivity": "node connectivity.js"
   },
   "dependencies": {
+    "async-sema": "^3.1.0",
     "consola": "^2.12.1",
     "got": "^11.1.4",
     "js-yaml": "^3.14.0"
